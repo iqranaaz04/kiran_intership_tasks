@@ -1,0 +1,132 @@
+Section A — AI Companies & Latest Models
+
+1.OpenAI
+
+2.Anthropic
+
+3.Google
+
+4.Meta
+
+5.xAI
+
+6.France
+
+7.GPT-6
+
+8.GPT-6 Mini
+
+9.Claude Haiku 5.5
+
+10.Gemini 4
+
+Section B — Generative AI & LLM Concepts
+
+11. Large Language Model.
+
+12. AI that creates new content such as text, images, audio, and video.
+
+13. An instruction or input given to an AI model.
+
+14. Instructions that define an AI's role, behavior, and rules.
+
+15. When AI generates incorrect or fabricated information as if it were true.
+
+16. A small unit of text processed by an LLM.
+
+17. The amount of information an AI model can process at one time.
+
+18.The process of using a trained AI model to generate an output.
+
+19. Further training a pretrained model on specific data to improve its performance for a task.
+
+20. AI that can process or generate multiple types of data, such as text, images, audio, and video.
+
+Section C — Agents, RAG & Modern AI Development
+
+21. An AI system that can perform tasks and take actions to achieve a goal.
+
+22. A chatbot mainly responds to messages, while an AI agent can plan and perform actions.
+
+23. Retrieval-Augmented Generation.
+
+24. To provide relevant external information to an LLM and improve the accuracy of its answers.
+
+25. A numerical representation of data that captures its meaning.
+
+26. It stores and searches vector embeddings to find semantically similar information.
+
+27.It allows an AI model to use external tools, APIs, or functions.
+
+28. Model Context Protocol.
+
+29. A credential used to authenticate and authorize access to an API.
+
+30. A sequence of AI-driven steps in which agents plan, use tools, and perform tasks toward a goal.
+
+Section D — AI Image, Video, Audio & Famous Tools
+
+31. AI-generated images and artwork.
+
+32. AI video generation.
+
+33.OpenAI image-generation model family: GPT Image.
+
+34. Generating an image from a written description.
+
+35. Generating a video from a written description.
+
+36.TTS: Text-to-Speech.
+
+37.STT: Speech-to-Text.
+
+38.OCR: Optical Character Recognition; it extracts text from images and scanned documents.
+
+39. An AI model that can understand both images and text.
+
+40. Creating an artificial voice that imitates a person's voice.
+
+Section E — Coding AI, Hardware & Practical Awareness
+
+41.GitHub Copilot: AI-assisted code completion and programming.
+
+42.Cursor: AI-powered code editing and software development.
+
+43.AI coding assistant: A tool that helps developers write, explain, debug, and improve code.
+
+44.Hardware for training large AI models: GPUs (Graphics Processing Units).
+
+45.GPU: Graphics Processing Unit.
+
+46.NPU: Neural Processing Unit.
+
+47.VRAM: Memory used to store model parameters, data, and intermediate computations during AI workloads.
+
+48.Running an AI model locally: Running the model on your own computer or device instead of relying entirely on a remote server.
+
+49.Open-weight AI model: A model whose trained weights are publicly available for use, subject to its license.
+
+50.Model distillation: Training a smaller model to reproduce the capabilities of a larger model.
+
+Section F — Latest AI Awareness & 2026 News
+
+51.OpenAI model family: GPT-6.
+
+52.Most demanding frontier work: GPT-6 Astra.
+
+53.Complex agentic coding and knowledge work: Claude Opus 5.5.
+
+54.Fast, high-volume, cost-sensitive work: Claude Haiku 5.5.
+
+55.Google's Gemini 4 flagship: Gemini 4.
+
+56.Advanced image generation and editing: GPT Image.
+
+57.Realtime voice model family: GPT-Live.
+
+58.Claude Opus, Sonnet and Haiku: Anthropic.
+
+59.AI safety risk: Prompt injection.
+
+60. AI can generate inaccurate or misleading information, so important decisions require human review.
+
